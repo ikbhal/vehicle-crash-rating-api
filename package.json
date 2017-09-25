@@ -1,0 +1,17 @@
+{
+  "name": "vehicle-crash-rating",
+  "version": "1.0.0",
+  "description": "Vehicle crash rating api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shaik Ikbhal Basha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4",
+    "request": "^2.82.0",
+    "request-promise": "^4.2.2"
+  }
+}
